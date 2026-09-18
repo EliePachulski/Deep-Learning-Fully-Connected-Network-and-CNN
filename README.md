@@ -81,16 +81,6 @@ Performance is evaluated on separate training, validation and test sets.
 
 ---
 
-## Repository Structure
-
-```
-├── HW1_340868488_340872084.ipynb    # Complete implementation
-├── DL_Fully_Connected_CNN.pdf       # Assignment instructions
-└── README.md
-```
-
----
-
 ## Topics Covered
 
 - Neural Networks
